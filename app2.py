@@ -295,7 +295,7 @@ from keras.models import load_model
 
 st.markdown('<h1 style="text-align: center;">Prédiction image 3D </h1>', unsafe_allow_html=True)
 
-model = load_model('model_final2.h')
+model = load_model('model_final2.pkl')
 
 
 
