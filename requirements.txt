@@ -148,6 +148,7 @@ oauthlib==3.2.2
 opt-einsum==3.3.0
 orjson==3.9.1
 oyaml==1.0
+os
 packaging==23.1
 pandas==1.5.3
 pandas-profiling==3.6.6
