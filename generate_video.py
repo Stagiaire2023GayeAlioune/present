@@ -1,4 +1,4 @@
-from moviepy.editor import *
+from moviepy import ImageClip, AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips
 from config import LOGO_PATH, COMPANY_NAME
 
 def create_video(images, voice):
